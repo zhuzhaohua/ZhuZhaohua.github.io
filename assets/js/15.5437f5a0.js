@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{326:function(t,e,n){"use strict";n.r(e);var l=n(1),s=Object(l.a)({},function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"content"},[e("el-alert",{attrs:{title:"留言请注明邮箱或联系方式",type:"warning",center:"",closable:!1}}),this._v(" "),e("Valine")],1)},[],!1,null,null,null);e.default=s.exports}}]);
